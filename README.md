@@ -9,7 +9,6 @@
 
 # Skills
 - Programming: Python, C
-
 - Python: Basic
 - C : Basic
 
