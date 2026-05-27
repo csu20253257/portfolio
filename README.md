@@ -1,6 +1,5 @@
-# portfolio
-1.자기소개 / About Me
-인공지능공학을 전공하며 Agent Systems, Reasoning and Planning, Multimodal Learning, PEFT에 관심이 있습니다. 향후 MLOps 엔지니어, AI 서비스 개발자로 성장하는 것을 목표로 합니다.
+# 자기소개 / About Me
+- 인공지능공학을 전공하며 Agent Systems, Reasoning and Planning, Multimodal Learning, PEFT에 관심이 있습니다. 향후 MLOps 엔지니어, AI 서비스 개발자로 성장하는 것을 목표로 합니다.
 
 # Education
 - Chosun University
@@ -11,8 +10,8 @@
 # Skills
 - Programming: Python, C
 
-Python: Basic
-C : Basic
+- Python: Basic
+- C : Basic
 
 # Contact
 - Email: 20253257@chosun.ac.kr / choeseonhui760@gmail.com
